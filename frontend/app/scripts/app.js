@@ -9,7 +9,7 @@
  * Main module of the application.
  */
 angular
-  .module('tahosite', [
+  .module('frontendApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',
